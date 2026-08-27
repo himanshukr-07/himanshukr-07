@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Himanshu Kumar — AI/ML & Full-Stack Developer" width="1180">
+    <img src="" alt="Himanshu Kumar — AI/ML & Full-Stack Developer" width="1180">
   </picture>
 </p>
 
