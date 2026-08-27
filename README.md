@@ -1,420 +1,130 @@
-<!-- ===================================================== -->
+# Hi 👋, I'm Himanshu Kumar
 
-<!--              HIMANSHU KUMAR - GITHUB README            -->
-
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img src="./assets/profile.png" width="150" alt="Himanshu Kumar"/>
-
-# 👋 Hey, I'm Himanshu Kumar
-
-### 🤖 B.Tech AI & ML Student • 💻 Full-Stack Developer • 🧠 Problem Solver
-
-<p>
-  <a href="https://himanshu-portfoleo.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/himanshu-krr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/himanshukr_07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/himanshukr_07" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Compete-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" alt="Himanshu Kumar - AI/ML & Full-Stack Developer" width="1180">
+  </picture>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/himanshukr-07"><img src="https://img.shields.io/badge/GitHub-himanshukr--07-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/himanshu-krr"><img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="mailto:himanshu94315@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
----
+## `$ whoami`
 
-## 🚀 About Me
+I'm a **B.Tech Artificial Intelligence & Machine Learning student** at **Aditya College of Engineering & Technology**, currently holding an **8.40/10.0 CGPA**.
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student** at **Aditya College of Engineering & Technology**, passionate about building responsive web applications, solving programming problems, and exploring practical software solutions.
-
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
-📊 **CGPA: 8.40 / 10.0**
-✅ **No Backlogs**
-💻 Focused on **Frontend & Full-Stack Development**
-🧠 Regularly practicing **Data Structures & Algorithms**
-🚀 Interested in building **real-world, user-friendly applications**
-
----
-
-## 💡 My Developer Journey
+I enjoy building practical software at the intersection of **AI, data, and full-stack engineering** — from offline-first computer-vision systems to REST APIs, analytics dashboards, and responsive web applications.
 
 ```text
-Frontend Development  ────────►  Full-Stack Development
-        │                              │
-        ▼                              ▼
- React • JavaScript              Node.js • Express
- HTML • CSS • Bootstrap          Flask • REST APIs
- Tailwind CSS                    MongoDB
-        │                              │
-        └──────────────┬───────────────┘
-                       ▼
-                🚀 Real-World Apps
-                       │
-                       ▼
-              🧠 DSA + Problem Solving
+Focus
+├── Artificial Intelligence & Machine Learning
+├── Computer Vision / OpenCV
+├── Full-Stack Web Development
+├── Data Analysis & Problem Solving
+└── Data Structures & Algorithms
 ```
 
----
+## ⚡ What I Build
 
-## 🛠️ Tech Stack
+| Area | What I work with |
+|---|---|
+| 🤖 AI & Vision | Python, Machine Learning, OpenCV, Computer Vision |
+| 🎨 Frontend | React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS, Bootstrap, GSAP |
+| 🧩 Backend | Node.js, Express.js, Flask, RESTful APIs, JWT |
+| 🗄️ Data | MongoDB, SQL, Data Analysis |
+| 🛠️ Engineering | Git, GitHub, Postman, VS Code, Jupyter Notebook |
+| 🧠 CS Foundations | DSA, OOP, Algorithm Optimization, DBMS, OS, Computer Networks |
 
-### 💻 Languages
+## 🚀 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,python,java,c" />
-</p>
+### AttendEase — Smart India Hackathon
+**Python · OpenCV · JavaScript · HTML · CSS**
 
-### 🎨 Frontend
+An automated, **offline-first attendance system** designed for rural schools with unreliable internet connectivity.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
-</p>
+- Facial recognition with **95%+ recognition accuracy** under dynamic lighting conditions.
+- Administrator dashboard for parsing, filtering, and exporting attendance records.
+- Designed around reliability in low-connectivity environments.
 
-**Also:** EJS • Responsive Design • DOM Manipulation
+### Hybrid To-Do Web Application
+**Node.js · Express.js · Flask · MongoDB · JWT · Bootstrap**
 
-### ⚙️ Backend
+A full-stack task-management application combining a Node.js layer with a Python/Flask backend.
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
+- RESTful CRUD APIs with MongoDB persistence.
+- JWT authentication and role-based access.
+- API validation and error handling for improved reliability and session security.
 
-**Also:** RESTful APIs • API Integration
+### URL Shortener Service
+**Node.js · Express.js · MongoDB · EJS**
 
-### 🗄️ Database
+A full-stack URL shortening service with analytics-oriented functionality.
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+- Custom alias generation.
+- Real-time click analytics.
+- Optimized database queries and validation for sub-second URL mapping and retrieval.
 
-**Database:** MongoDB / NoSQL
+### Currency Converter
+**JavaScript ES6+ · REST APIs · HTML/CSS**
 
-### 🔧 Developer Tools
+A responsive application integrating external exchange-rate APIs.
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter" />
-</p>
+- Supports **150+ currencies**.
+- Async Fetch API workflow with loading states and error handling.
+- Responsive UI with dynamic updates.
 
----
+## 🏆 Hackathons & Achievements
 
-## 📚 Core Concepts
+- **UIDAI Data Hackathon 2026** — analyzed datasets to identify societal trends and anomalies in Aadhaar enrolment and update metrics.
+- **Economic Times Gen AI Hackathon** — **Semi-finalist**; collaborated on an AI-powered solution under strict time constraints.
+- **Smart India Hackathon (SIH)** — led the engineering phase for an AI-powered biometric system and coordinated cross-functional technical communication.
+- **IdeaSpark & IdeaThon** — presented technical architecture ideas and collaborated on scalable solution framing.
 
-```text
-🧠 Data Structures & Algorithms
-🏗️ Object-Oriented Programming
-🌐 Full-Stack Development
-🎯 DOM Manipulation
-🔌 RESTful APIs
-🔐 JWT Authentication
-📱 Responsive Web Design
+## 📜 Certifications
+
+`Oracle Java Foundations` · `Java Basic (HackerRank)` · `Full Stack Development (GeeksforGeeks)` · `Introduction to Python (Infosys Springboard)` · `Gemini Certified University Student (Google)`
+
+## 🧪 Currently Exploring
+
+```python
+interests = [
+    "Machine Learning",
+    "Computer Vision",
+    "Data Science",
+    "AI-powered applications",
+    "Scalable backend systems",
+    "Algorithm optimization",
+]
 ```
 
----
-
-# 🔥 Featured Projects
-
-## ✅ Hybrid To-Do Web Application
-
-**Node.js • Flask • MongoDB • JWT • Bootstrap • JavaScript**
-
-A full-stack task management application with authentication and CRUD functionality.
-
-✨ **Highlights**
-
-* 🔐 JWT-based user authentication
-* 📝 Complete CRUD operations
-* 🔌 REST APIs for task management
-* 🗄️ MongoDB database integration
-* 📱 Fully responsive interface
-* ⚡ Cross-device user experience
-
----
-
-## 👁️ Face Recognition Attendance System
-
-**Python • OpenCV • HTML • CSS • JavaScript**
-
-An automated attendance system using facial recognition technology.
-
-✨ **Highlights**
-
-* 🎯 **95%+ recognition accuracy**
-* 👤 Automated face-based attendance tracking
-* 📊 Attendance viewing and filtering
-* 📤 Attendance record export functionality
-* 📱 Responsive administrator interface
-
-🏆 Developed as part of **Smart India Hackathon (SIH)** project work.
-
----
-
-## 🔗 URL Shortener Web Application
-
-**Node.js • Express.js • MongoDB • EJS**
-
-A full-stack URL shortening service with custom short links and analytics.
-
-✨ **Highlights**
-
-* 🔗 Custom short-code generation
-* 📈 Click tracking analytics
-* 🔌 RESTful API
-* 🗄️ MongoDB database
-* 🖥️ Server-side rendering using EJS
-
----
-
-## 💱 Currency Converter Web App
-
-**JavaScript • REST API • HTML • CSS**
-
-A real-time currency conversion application integrating an external exchange-rate API.
-
-✨ **Highlights**
-
-* 🌍 Supports **150+ currencies**
-* 🔄 Real-time exchange rate conversion
-* ⚡ Asynchronous API integration
-* 🛡️ Error handling & input validation
-* ⏳ Loading states
-* 📱 Fully responsive UI
-
-🔗 **Live Demo available**
-
----
-
-## 🎵 Spotify Clone
-
-**JavaScript • HTML5 • CSS3 • Web Audio API**
-
-A dynamic music streaming interface inspired by modern music platforms.
-
-✨ **Highlights**
-
-* ▶️ Play / Pause controls
-* ⏩ Seek functionality
-* 🔊 Volume control
-* 🎶 Playlist management
-* 📊 Audio visualization
-* 📱 Responsive interface
-* ⚡ Dynamic DOM-based interactions
-
----
-
-## 🎮 Interactive Tic-Tac-Toe
-
-**JavaScript • HTML • CSS**
-
-A browser-based interactive game with complete state management.
-
-✨ **Highlights**
-
-* 🧠 Intelligent win detection
-* 🎯 Game state management
-* 🔄 Reset functionality
-* ⚡ Real-time DOM updates
-* 🎨 Interactive UI
-
----
-
-# 🧠 Problem Solving
-
-## 🟧 CodeChef
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-250%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/Contests-13-5B4638?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Highest%20Rating-1086-5B4638?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Rating-1★-5B4638?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshukr-07&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukr-07&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
 </p>
 
-☕ **Java Skill Test:** 78%
+## 🧭 Developer Principles
 
-🏅 Problem Solver — Silver Badge
-🏅 Contest Contender — Bronze Badge
-🏅 Code Enthusiast — Bronze Badge
-🏅 Daily Streak — Bronze Badge
+> **Build useful things.**  
+> **Keep the architecture understandable.**  
+> **Optimize what matters.**  
+> **Learn by shipping.**
 
-🔗 [**View CodeChef Profile →**](https://www.codechef.com/users/himanshukr_07)
-
----
-
-## 🟨 LeetCode
+## 📫 Connect
 
 <p align="center">
-<img src="https://img.shields.io/badge/51%20Problems-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <a href="mailto:himanshu94315@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/himanshu-krr">LinkedIn</a> ·
+  <a href="https://github.com/himanshukr-07">GitHub</a>
 </p>
-
-### 🧩 Areas I Practice
-
-`Arrays` • `Hash Table` • `Binary Search`
-
-`Two Pointers` • `Sorting` • `Dynamic Programming`
-
-`Divide & Conquer` • `Math` • `Trie`
-
-🔗 [**View LeetCode Profile →**](https://leetcode.com/u/himanshukr_07/)
-
----
-
-# 🎓 Education
-
-### 🏫 Aditya College of Engineering & Technology
-
-**B.Tech — Artificial Intelligence & Machine Learning**
-
-📅 **Aug 2024 – Jun 2028**
-
-📊 **CGPA: 8.40 / 10.0**
-
-✅ **No Backlogs**
-
-### Relevant Coursework
-
-`Data Structures` • `Algorithms` • `OOP`
-
-`Database Management`
-
----
-
-# 🏅 Certifications
-
-🎖️ **Oracle Java Foundations Certification**
-Oracle Academy • Dec 2025 – Feb 2026
-
-🎖️ **Full Stack Development using Bootstrap**
-GeeksforGeeks • Aug 2025 – Nov 2025
-
-🎖️ **Introduction to Python**
-Infosys Springboard • Jan 2025 – Mar 2025
-
-🎖️ **Gemini Certified University Student**
-Google
-
----
-
-# 🏆 Achievements
-
-📚 **250+ CodeChef Problems Solved**
-
-💻 **51 LeetCode Problems Solved in Java**
-
-🎯 **95%+ Accuracy** in Face Recognition Attendance System
-
-📊 **8.40 CGPA** in B.Tech AIML
-
-📈 **82.2%** in Class XII
-
-📈 **78.2%** in Class X
-
----
-
-# 🤝 Extracurricular Activities
-
-💡 Participated in **IdeaSpark**, presenting innovative technical ideas and solutions.
-
-🚀 Competed in **IdeaThon**, collaborating on problem-solving concepts under time constraints.
-
-🏆 Active participant in **Smart India Hackathon (SIH)** project development and technical discussions.
-
-🧠 Regularly practice **Data Structures & Algorithms** to strengthen coding and analytical skills.
-
----
-
-# 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=himanshukr-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=himanshukr-07&theme=tokyonight&hide_border=true" height="180"/>
-
+  <sub>Built with curiosity, code, and a lot of debugging.</sub>
 </p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukr-07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=himanshukr-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshukr-07&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-```text
-✅ Strengthen Data Structures & Algorithms
-✅ Improve Java & JavaScript skills
-✅ Build scalable Full-Stack applications
-✅ Explore AI-powered applications
-✅ Participate in more hackathons
-✅ Contribute to Open Source
-✅ Become internship / placement ready
-```
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://himanshu-portfoleo.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/himanshu-krr/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/himanshukr_07/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-himanshukr__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/himanshukr_07" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-himanshukr__07-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## ⚡ Building. Learning. Solving. Repeating.
-
-### 💙 Thanks for visiting my profile!
-
-⭐ Explore my repositories • 🧠 Check my coding profiles • 🤝 Let's connect
-
-</div>
