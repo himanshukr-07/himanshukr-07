@@ -1,22 +1,14 @@
 # Hi 👋, I'm Himanshu Kumar
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="" alt="Himanshu Kumar — AI/ML & Full-Stack Developer" width="1180">
-  </picture>
-</p>
-
-<p align="center">
   <a href="https://github.com/himanshukr-07"><img src="https://img.shields.io/badge/GitHub-himanshukr--07-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://linkedin.com/in/himanshu-krr"><img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:himanshu94315@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## `$ whoami`
+## `$ Who am I`
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student** at **Aditya College of Engineering & Technology** with an **8.40/10.0 CGPA** and hands-on experience spanning **AI, computer vision, data, backend systems, and full-stack web development**.
+I'm a **B.Tech Artificial Intelligence & Machine Learning student** at **Aditya College of Engineering & Technology** with an **8.40/10.0 CGPA** and hands-on experience spanning **JAVA, DSA, AI, data, backend systems, and full-stack web development**.
 
 I like turning ideas into practical software — especially systems that combine intelligent processing with clean, responsive interfaces.
 
@@ -32,7 +24,7 @@ Focus
 
 | Area | Technologies |
 |---|---|
-| 🤖 AI & Data | Python, Machine Learning, OpenCV, SQL |
+| 🤖 Programming Language | Java, C, Python, SQL |
 | 🎨 Frontend | React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS, Bootstrap |
 | 🧩 Backend | Node.js, Express.js, RESTful APIs, JWT Authentication |
 | 🗄️ Database | MongoDB |
@@ -79,8 +71,8 @@ A responsive currency converter using external financial APIs.
 
 ## 🏆 Hackathons & Achievements
 
-- **UIDAI Data Hackathon 2026** — analyzed datasets to identify societal trends and anomalies in Aadhaar enrolment and update metrics.
 - **Economic Times Gen AI Hackathon** — **Semi-finalist**, collaborating on an AI-powered solution under strict time constraints.
+- **UIDAI Data Hackathon 2026** — analyzed datasets to identify societal trends and anomalies in Aadhaar enrolment and update metrics.
 - **Smart India Hackathon (SIH)** — led the engineering phase for an AI-powered biometric system and coordinated cross-functional technical communication.
 - **IdeaSpark & IdeaThon** — presented technical architecture ideas and collaborated on scalable solution framing.
 
