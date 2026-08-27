@@ -23,7 +23,6 @@ I like turning ideas into practical software — especially systems that combine
 ```text
 Focus
 ├── Artificial Intelligence & Machine Learning
-├── Computer Vision / OpenCV
 ├── Full-Stack Web Development
 ├── Data Analysis
 └── Data Structures & Algorithms
@@ -33,9 +32,9 @@ Focus
 
 | Area | Technologies |
 |---|---|
-| 🤖 AI & Data | Python, Machine Learning, Computer Vision, OpenCV, Data Analysis, SQL |
-| 🎨 Frontend | React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS, Bootstrap, GSAP |
-| 🧩 Backend | Node.js, Express.js, Flask, RESTful APIs, JWT Authentication |
+| 🤖 AI & Data | Python, Machine Learning, OpenCV, SQL |
+| 🎨 Frontend | React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| 🧩 Backend | Node.js, Express.js, RESTful APIs, JWT Authentication |
 | 🗄️ Database | MongoDB |
 | 🛠️ Tools | Git, GitHub, Postman, VS Code, Jupyter Notebook, Android Studio |
 | 🧠 CS | Data Structures & Algorithms, OOP, Algorithm Optimization, DBMS, Operating Systems, Computer Networks |
